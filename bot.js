@@ -13,7 +13,7 @@ const client = new Client({
 // Configuration - Edit these values
 const CONFIG = {
     TOKEN: process.env.DISCORD_TOKEN, // Now uses environment variable
-    CAM_ONLY_CHANNELS: ['1388844658184032256', '1388844741306744974', '1388844848198582362', '1388844911520120843', '1388844944420241470'],
+    CAM_ONLY_CHANNELS: ['1389908072649986118', '1388844741306744974', '1388844848198582362', '1388844911520120843', '1388844944420241470'],
     GRACE_PERIOD: 10000, // Time in milliseconds to turn on camera (10 seconds)
     WARNING_MESSAGE: {
         title: '📹 Camera Required!',
