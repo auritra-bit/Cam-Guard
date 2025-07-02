@@ -1,0 +1,19 @@
+{
+  "name": "discord-camera-bot",
+  "version": "1.0.0",
+  "description": "Discord bot that enforces camera requirements in voice channels",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.21.0"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "keywords": ["discord", "bot", "camera", "voice"],
+  "author": "Your Name",
+  "license": "MIT"
+}
